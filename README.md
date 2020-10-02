@@ -24,7 +24,7 @@ Budget Tracker allows for an easy way to track money regardless of whether the a
 + [Questions](#questions)
 
 ## *Installation*
-Type npm run start from the command line and then go to https://localhost:3001 or run the application for the heroku link provided
+Type npm run start from the command line and then go to https://localhost:3001 or run the application from the heroku link provided
 
 ## *Usage*
 Budget Tracker provides a running visual of your account balance over time. The application can be run regardless of whether you are online or offiline.
