@@ -8,7 +8,7 @@
 You can access this Github Repository at: https://github.com/lafry5/budget-tracker
 
 ## Heroku Link
-The link to Heroku repository for this project is located at: https://secure-crag-09830.herokuapp.com/
+The link to the Heroku repository for this project is located at: https://secure-crag-09830.herokuapp.com/
 
 ## *Description*
 Budget Tracker allows for an easy way to track money regardless of whether the application is on or offline
